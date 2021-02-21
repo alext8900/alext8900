@@ -18,5 +18,5 @@ continuously learning, wanting to make apps to help make people lives easier
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - <img src="https://user-images.githubusercontent.com/53663334/108628483-de29f800-7420-11eb-8427-a4164fc63028.jpg" align="center" height="40px" />  a city viewer app for users to find a better place to live
-- <img src="https://raw.githubusercontent.com/alext8900/photos/main/2438295-200.png?token=AMZNMZXOTV7QGCCQABZW2Q3AHOX2O" align="center" width="35px" />  An app for truck drivers to log their trips and even show the money they made
+- <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/vector-truck-icon.jpg?token=AMZNMZSPIJ6LCHEILNGZH7TAHOY62" align="center" width="35px" />  An app for truck drivers to log their trips and even show the money they made
 ⭐️ From [alext8900](https://github.com/alext8900)
