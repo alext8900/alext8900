@@ -43,4 +43,16 @@ continuously learning, wanting to make apps to help make people's lives easier.
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> any interesting or problem solving project
 
-⭐️ From [Alex Thompson](https://github.com/alext8900)
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+<p align="center">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+  
+</p>
+
