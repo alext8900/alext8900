@@ -24,7 +24,7 @@ continuously learning, wanting to make apps to help make people's lives easier.
 - Sign in with apple functionality for first-class security
 - When app first launches we capture emergency contacts during the onboarding process
 - Auto generated message for your emergency contacts when the user believes they are in trouble
-- Sends emergency message to all contacts at the same time at the click of a button with your current location
+- Sends message to all emergency contacts at the same time at the click of a button with your current location
 
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
