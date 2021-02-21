@@ -23,7 +23,7 @@ continuously learning, wanting to make apps to help make people's lives easier.
 ### Features of this app ...
 - Sign in with apple functionality for first-class security
 - When app first launches we capture emergency contacts during the onboarding process
-- Auto generated emergency message for your emergency contacts when the user believes they are in trouble
+- Auto generated message for your emergency contacts when the user believes they are in trouble
 - Sends emergency message to all contacts at the same time at the click of a button with your current location
 
 
