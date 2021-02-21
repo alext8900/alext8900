@@ -18,8 +18,13 @@ continuously learning, wanting to make apps to help make people's lives easier.
   <h1>Im in Danger app</h1>
 </div>
 
-### One of the creators of the [Im in Danger app](https://apps.apple.com/us/app/im-in-danger/id1529713871) on the app store
-<img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/Screen%20Shot%202021-01-22%20at%201.22.58%20AM.png?token=AMZNMZS4DIDDNPR64TMDY4LAHPV74" align="left" width="20%" /> <img src="https://github.com/alext8900/photos/blob/main/Assets/IMG_0910.jpg?raw=true" align="topcenter" width="16%" /> <img src="https://github.com/alext8900/photos/blob/main/Assets/IMG_0908.jpg?raw=true" align="top" width="16%" />
+### Check out [Im in Danger app](https://apps.apple.com/us/app/im-in-danger/id1529713871) on the app store
+<img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/Screen%20Shot%202021-01-22%20at%201.22.58%20AM.png?token=AMZNMZS4DIDDNPR64TMDY4LAHPV74" align="top" width="20%" /> <img src="https://github.com/alext8900/photos/blob/main/Assets/IMG_0910.jpg?raw=true" align="left" width="16%" /> <img src="https://github.com/alext8900/photos/blob/main/Assets/IMG_0908.jpg?raw=true" width="16%" /> 
+### Features of this app ...
+- Sign in with apple functionality for first-class security
+- When app first launches we capture emergency contacts during the onboarding process
+- Auto generated emergency message for your emergency contacts when the user believes they are in trouble
+- Sends emergency message to all contacts at the same time at the click of a button with your current location
 
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
