@@ -56,9 +56,16 @@ continuously learning, wanting to make apps to help make people's lives easier.
   
 </p>
 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
+
 <p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=alext8900&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alext8900&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alext8900&theme=tokyonight&show_icons=true" /> </p>
 
-</p>
+
+
+
+
+### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
