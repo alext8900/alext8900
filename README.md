@@ -5,6 +5,16 @@
   <br/> Application enthusiest, i really love making apps. 
     <br/> (<em>Lambda School Pre-Grad</em>)Fulltime student.
       <br/>
+    Creating apps to learn new technologies, constantly studying,
+          <br/>
+continuously learning, wanting to make apps to help make people lives easier
+  </samp>
+  <br/>
+  <br/>
+  <br/>
+</p>
+
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
     <td align="center">
