@@ -16,11 +16,4 @@ continuously learning, wanting to make apps to help make people lives easier
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-    <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=alext8900&show_icons=true&theme=dracula" />
-      </td>
-  </tr>
-</table>  
-      
 ⭐️ From [alext8900](https://github.com/alext8900)
