@@ -45,10 +45,14 @@ continuously learning, wanting to make apps to help make people's lives easier.
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
 <p align="center">
-    <img src="https://img.shields.io/badge/-Swift-red?style=flat&logo=swift&logoColor=white" height="35px" style="vertical-align:top margin:6px 4px"/>
-     <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+    <img src="https://img.shields.io/badge/-Swift-FA7323?style=flat&logo=swift&logoColor=white" height="35px" style="vertical-align:top margin:6px 4px"/>
+     <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
       <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
         <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" height="35px" style="vertical-align:top margin:6px 4px"/>
+         <img src="http://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+          <img src="http://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+           <img src="http://img.shields.io/badge/-Realm-39477F?style=flat&logo=realm&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+           <img src="http://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
   
 </p>
 
