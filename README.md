@@ -61,6 +61,8 @@ continuously learning, wanting to make apps to help make people's lives easier.
               <img src="http://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
               <img src="http://img.shields.io/badge/-WireFraming-F24E1E?style=flat&logo=figma&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
               <img src="http://img.shields.io/badge/-AppStore%20Connect-0D96F6?style=flat&logo=app%20store&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+  
   
 </p>
 
