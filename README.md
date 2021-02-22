@@ -53,6 +53,14 @@ continuously learning, wanting to make apps to help make people's lives easier.
           <img src="http://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
            <img src="http://img.shields.io/badge/-Realm-39477F?style=flat&logo=realm&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
            <img src="http://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+            <img src="http://img.shields.io/badge/-iOS%20Development-000000?style=flat&logo=apple&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="http://img.shields.io/badge/-Sketch%20Design-F7B500?style=flat&logo=sketch&logoColor=000000" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu%20bash&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-WireFraming-F24E1E?style=flat&logo=figma&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-AppStore%20Connect-0D96F6?style=flat&logo=app%20store&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
   
 </p>
 
@@ -68,4 +76,4 @@ continuously learning, wanting to make apps to help make people's lives easier.
 
 
 ### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/alext8900/count.svg)
