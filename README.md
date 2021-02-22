@@ -76,4 +76,4 @@ continuously learning, wanting to make apps to help make people's lives easier.
 
 
 ### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/alext8900/count.svg)
+## ![VisitorCount](https://profile-counter.glitch.me/alext8900/count.svg) - Profile Views Counter 
