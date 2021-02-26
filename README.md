@@ -45,23 +45,23 @@ continuously learning, wanting to make apps to help make people's lives easier.
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
 <p align="center">
-    <img src="https://img.shields.io/badge/-Swift-FA7323?style=flat&logo=swift&logoColor=white" height="35px" style="vertical-align:top margin:6px 4px"/>
-     <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-      <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-        <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" height="35px" style="vertical-align:top margin:6px 4px"/>
-         <img src="http://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-          <img src="http://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-           <img src="http://img.shields.io/badge/-Realm-39477F?style=flat&logo=realm&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-           <img src="http://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-            <img src="http://img.shields.io/badge/-iOS%20Development-000000?style=flat&logo=apple&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="http://img.shields.io/badge/-Sketch%20Design-F7B500?style=flat&logo=sketch&logoColor=000000" height="35px" style="vertical-align:top margin:6px 4px"/>
-              <img src="http://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-              <img src="http://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu%20bash&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-              <img src="http://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-              <img src="http://img.shields.io/badge/-WireFraming-F24E1E?style=flat&logo=figma&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-              <img src="http://img.shields.io/badge/-AppStore%20Connect-0D96F6?style=flat&logo=app%20store&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
-              <img src="http://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+    <img src="https://img.shields.io/badge/-Swift-FA7323?style=plastic&logo=swift&logoColor=white" height="35px" style="vertical-align:top margin:6px 4px"/>
+     <img src="http://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+      <img src="http://img.shields.io/badge/-Github-000000?style=plastic&logo=github&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+        <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white" height="35px" style="vertical-align:top margin:6px 4px"/>
+         <img src="http://img.shields.io/badge/-MongoDB-4DB33D?style=plastic&logo=mongodb&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+          <img src="http://img.shields.io/badge/-Xcode-1575F9?style=plastic&logo=xcode&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+           <img src="http://img.shields.io/badge/-Realm-39477F?style=plastic&logo=realm&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+           <img src="http://img.shields.io/badge/-Firebase-FFCA28?style=plastic&logo=firebase&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+            <img src="http://img.shields.io/badge/-iOS%20Development-000000?style=plastic&logo=apple&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="http://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=yellow" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="http://img.shields.io/badge/-Sketch%20Design-F7B500?style=plastic&logo=sketch&logoColor=000000" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-Postman-FF6C37?style=plastic&logo=postman&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-Bash-4EAA25?style=plastic&logo=gnu%20bash&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-CocoaPods-EE3322?style=plastic&logo=cocoapods&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-WireFraming-F24E1E?style=plastic&logo=figma&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-AppStore%20Connect-0D96F6?style=plastic&logo=app%20store&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
+              <img src="http://img.shields.io/badge/-Trello-0079BF?style=plastic&logo=trello&logoColor=FFFFFF" height="35px" style="vertical-align:top margin:6px 4px"/>
   
   
 </p>
