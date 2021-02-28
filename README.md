@@ -19,7 +19,7 @@ continuously learning, wanting to make apps to help make people's lives easier.
 </div>
 
 ### Check out [Im in Danger app](https://apps.apple.com/us/app/im-in-danger/id1529713871) on the app store
-<img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/Screen%20Shot%202021-01-22%20at%201.22.58%20AM.png?token=AMZNMZSOMMQ6MW6EPQYSOSDAIVSBC" align="top" width="20%" /> <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/IMG_0910.jpg?token=AMZNMZSRD6OCIJ2BSZN7UGLAHRF3I" align="left" width="16%" /> <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/IMG_0908.jpg?token=AMZNMZVZPIN3ZP3KLKEBWZDAHRF5Y" width="16%" /> 
+<img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/Screen%20Shot%202021-01-22%20at%201.22.58%20AM.png" align="top" width="20%" /> <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/IMG_0910.jpg" align="left" width="16%" /> <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/IMG_0908.jpg" width="16%" /> 
 ### Features of this app ...
 - Sign in with apple functionality for first-class security
 - When app first launches we capture emergency contacts during the onboarding process
@@ -31,13 +31,13 @@ continuously learning, wanting to make apps to help make people's lives easier.
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - <img src="https://user-images.githubusercontent.com/53663334/108628483-de29f800-7420-11eb-8427-a4164fc63028.jpg" align="center" height="40px" />  a city viewer app for users to find a better place to live
-- <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/vector-truck-icon.jpg?token=AMZNMZSPIJ6LCHEILNGZH7TAHOY62" align="center" height="40px" />  An app for truck drivers to log their trips and even show the money they made
+- <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/vector-truck-icon.jpg" align="center" height="40px" />  An app for truck drivers to log their trips and even show the money they made
 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Favorite Technologies ...
-- <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/download.jpeg?token=AMZNMZSIZUWKQJP5QRXDIG3AHPAAQ" align="center" height="40px" /> MongoDB Realm database 
-- <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/d944875d-5d8e-4790-b7b3-37a525453ed7.png?token=AMZNMZWK2SC7STAARB2MAQTAHPKXK" align="center" height="40px" /> RxSwift Framework
-- <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/1_PeFnya42mpOiCvdgm49ifQ.png?token=AMZNMZVGS2XQWUE4M7GO72DAHPMK6" align="center" height="40px" /> SwiftUI
+- <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/download.jpeg" align="center" height="40px" /> MongoDB Realm database 
+- <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/d944875d-5d8e-4790-b7b3-37a525453ed7.png" align="center" height="40px" /> RxSwift Framework
+- <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/1_PeFnya42mpOiCvdgm49ifQ.png" align="center" height="40px" /> SwiftUI
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking to help with ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
