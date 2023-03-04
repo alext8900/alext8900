@@ -3,7 +3,7 @@
   <samp>
     My name is <em>Alexander Thompson</em>. I am an iOS Developer... 
   <br/> Application enthusiest, i really love making apps. 
-    <br/> (<em>Lambda School Pre-Grad</em>)Fulltime student.
+    <br/> (<em>Lambda School Post-Grad</em>)Fulltime student.
       <br/>
     Creating apps to learn new technologies, constantly studying,
           <br/>
