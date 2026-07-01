@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://anchorgrid.io"><img src="https://img.shields.io/badge/AnchorGrid-Live-6C47FF?style=for-the-badge&logo=apple&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:alex.cthompson97@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -32,9 +32,6 @@ A fast, secure remote-support platform built to go head-to-head with Splashtop a
   <img src="https://raw.githubusercontent.com/alext8900/photos/main/anchorgrid/dashboard.png" width="24%" />
   <img src="https://raw.githubusercontent.com/alext8900/photos/main/anchorgrid/devices.png" width="24%" />
 </p>
-
-> 📸 **TODO:** swap the placeholder image paths above for real AnchorGrid screenshots. Upload them to your `alext8900/photos` repo (or drag them into an Issue and paste the generated URL).
-
 ---
 
 ## 🛠️ Stack I actually ship with
