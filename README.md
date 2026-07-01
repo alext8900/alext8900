@@ -63,23 +63,15 @@ A fast, secure remote-support platform built to go head-to-head with Splashtop a
 
 Beyond AnchorGrid, I run network engineering, cloud identity, and endpoint management for a ~400-user, 11-site environment — and build internal tooling to make it all easier:
 
-- **COTTONWOOD** — internal IT portal (Node/React + Graph API): RBAC, onboarding/offboarding, BitLocker lookup, Intune device management
+- **BPI IT Portal** — internal IT portal (Node/React + Graph API): RBAC, onboarding/offboarding, BitLocker lookup, Intune device management
 - **Dialpad → Zendesk middleware** — call-to-ticket bridge for internal support
 - **SwiftUI TN5250 terminal emulator** — because talking to an AS/400 shouldn't be miserable
 - Custom Claude-API email triage tooling, Conditional Access architecture, phishing-resistant MFA rollouts
 
 ---
 
-## 📊 Stats
-
 <p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=alext8900&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alext8900&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</p>
-
----
-
-<p align="center">
-  <samp>Thanks for stopping by 🖤</samp><br/>
-  <img src="https://profile-counter.glitch.me/alext8900/count.svg" />
+  <a href="https://anchorgrid.io"><b>anchorgrid.io</b></a> ·
+  <a href="https://apps.apple.com/app/anchorgrid](https://apps.apple.com/us/app/anchorgrid/id6773207677">App Store</a> ·
+  <samp>Thanks for stopping by 🖤</samp>
 </p>
