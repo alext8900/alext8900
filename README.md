@@ -72,6 +72,6 @@ Beyond AnchorGrid, I run network engineering, cloud identity, and endpoint manag
 
 <p align="center">
   <a href="https://anchorgrid.io"><b>anchorgrid.io</b></a> ·
-  <a href="https://apps.apple.com/app/anchorgrid](https://apps.apple.com/us/app/anchorgrid/id6773207677">App Store</a> ·
+  <a href="https://apps.apple.com/us/app/anchorgrid/id6773207677">App Store</a> ·
   <samp>Thanks for stopping by 🖤</samp>
 </p>
