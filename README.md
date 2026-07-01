@@ -27,12 +27,11 @@ A fast, secure remote-support platform built to go head-to-head with Splashtop a
 - 💸 **Honest pricing** — free tier + Pro at $19/mo ($15/mo annual)
 
 <p align="center">
-  <!-- Drop 2–3 real screenshots here. Suggested layout: -->
-  <img src="https://raw.githubusercontent.com/alext8900/photos/main/anchorgrid/session.png" width="24%" />
-  <img src="https://raw.githubusercontent.com/alext8900/photos/main/anchorgrid/dashboard.png" width="24%" />
-  <img src="https://raw.githubusercontent.com/alext8900/photos/main/anchorgrid/devices.png" width="24%" />
+  <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/dashboard.png" width="31%" />
+  <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/session_analytics.png" width="31%" />
+  <img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/adminView.png" width="31%" />
 </p>
----
+
 
 ## 🛠️ Stack I actually ship with
 
